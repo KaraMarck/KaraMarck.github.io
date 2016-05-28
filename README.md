@@ -1,5 +1,5 @@
-# KaraMarck.github.io
+# Wish List
 
 This is a basic To Do List, made with jQuery
 
-Can be viewed at: http://marckk.github.io/KaraMarck.github.io/
+Can be viewed at: https://marckk.github.io/Wish-List/
